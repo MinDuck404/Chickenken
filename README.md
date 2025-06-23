@@ -1,6 +1,6 @@
-# 🐣 The Other Side
+# 🐣 Chicky Chicky
 
-**The Other Side** is a fast-paced dodge-and-collect mobile game where players control a chicken dodging falling carts while collecting coins. The game tests reflexes, timing, and strategic movement across multiple lanes.
+**🐣 Chicky Chicky** is a fast-paced dodge-and-collect mobile game where players control a chicken dodging falling carts while collecting coins. The game tests reflexes, timing, and strategic movement across multiple lanes.
 
 ---
 
