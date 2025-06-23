@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Other Side</string>
+    <string name="the_other_side">THE OTHER SIDE</string>
+    <string name="play_now">Play</string>
+    <string name="score">Score:</string>
+    <string name="coins">Coins:</string>
+    <string name="back">Back</string>
+    <string name="oops_looks_like_we_don_t_have_a_shop_yet_maybe_in_the_future">Oops! looks like we don\'t have a shop yet. Maybe in the future</string>
+</resources>
