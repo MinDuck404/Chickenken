@@ -19,13 +19,7 @@ You play as a determined chicken trying to survive and score high in a chaotic w
 
 ---
 
-## 👥 Team Members
 
-- [Chisom Chiobi](https://github.com/ChiobiJason)
-- [Cherie Eze](https://github.com/cherieeze)
-- [Victor Jason-Nwachukwu](https://github.com/jaxonsxx)
-
----
 
 ## 📁 Project Structure
 
